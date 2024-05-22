@@ -2,6 +2,10 @@
 
 This project is an end-to-end Large Language Model (LLM) application that facilitates natural language interaction with a retail store's database. Developed using the LangChain framework, Google Gemini API, and Streamlit for the frontend interface, the chatbot enables users to query the database effortlessly and obtain accurate responses.
 
+
+![image](https://github.com/skateryash/Retail-Store-Chatbot/assets/46641912/d890f083-1eed-4a75-af80-8952f93f5d51)
+
+
 ## Project Description
 Retail Store Chatbot is designed to streamline operations for store managers by providing an intuitive interface to interact with the store's data. Users can ask questions in natural language, and the system translates these queries into SQL to fetch data from the MySQL database. The application is particularly useful for managing inventory, sales, and discounts.
 
