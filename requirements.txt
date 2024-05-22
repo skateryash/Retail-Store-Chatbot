@@ -1,0 +1,11 @@
+langchain
+langchain_google_genai
+python-dotenv==1.0.0
+streamlit
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+protobuf
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
